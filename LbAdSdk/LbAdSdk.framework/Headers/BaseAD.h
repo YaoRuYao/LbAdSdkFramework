@@ -10,6 +10,7 @@
 
 @interface BaseAD<__covariant T> :NSObject{
     NSString *_placementID;
+    NSString *_eventKey;
     T _delegate;
 }
 - (void)didFailToLoadADWithPlacementID:(NSString *)placementID error:(NSError *)error;

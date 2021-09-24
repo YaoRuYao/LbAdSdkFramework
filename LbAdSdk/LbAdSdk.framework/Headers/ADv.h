@@ -5,7 +5,7 @@
 //  Created by SX on 2021/9/14.
 //
 
-
+#import "TalkingData.h"
 #import "SplashAD.h"
 #import "NativeAD.h"
 #import "BannerAD.h"
@@ -20,6 +20,8 @@
 +(void) debug:(BOOL)debugEnabled;
 
 +(void) setChannel:(NSString *)channelString;
+
++(void) initApp:(NSString *)appId channel:(NSString *)channelString tracking:(BOOL)tracking;
 
 +(void) initApp:(NSString *)appId channel:(NSString *)channelString;
 
