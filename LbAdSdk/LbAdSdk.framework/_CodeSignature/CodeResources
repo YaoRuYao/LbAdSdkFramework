@@ -439,7 +439,7 @@
 		</dict>
 		<key>Headers/ADv.h</key>
 		<data>
-		EJiuSmNd8g9IT3bkh7rAlMfUFGY=
+		yBEWw+YJvCQbE4WbrxlKZ4H0vbM=
 		</data>
 		<key>Headers/BannerAD.h</key>
 		<data>
@@ -447,7 +447,7 @@
 		</data>
 		<key>Headers/BannerDelegate.h</key>
 		<data>
-		vqtNnp5MzCd7Ual4dXNcf9FU1Kg=
+		ZxaKJw7TpJkmqrwhpGWkXeMmxK4=
 		</data>
 		<key>Headers/BaseAD.h</key>
 		<data>
@@ -471,11 +471,11 @@
 		</data>
 		<key>Headers/InterstitialAD.h</key>
 		<data>
-		F8bY+PMqxcp9Ce2c+EV8cz/JX3U=
+		yDzH1hJRAizRTtYTZAt7heiM6r8=
 		</data>
 		<key>Headers/InterstitialDelegate.h</key>
 		<data>
-		Vs8X7mxLDSrs85DInBSSV4jE/Q4=
+		ZsieFZ2G3rge8/Bd4XxnRFhTkw0=
 		</data>
 		<key>Headers/LayoutCategories.h</key>
 		<data>
@@ -487,15 +487,15 @@
 		</data>
 		<key>Headers/NativeDelegate.h</key>
 		<data>
-		w9pGu25bmOPvOZLr52JT2Osjuts=
+		bOqG6jnUq/KoCfTjMn8SwSMPtmM=
 		</data>
 		<key>Headers/RewardVideo.h</key>
 		<data>
-		lIKKwyCE8D8kVdoZPLDbkMgQxMM=
+		ZDSioebhaI3am7zELNFk8wkv8EM=
 		</data>
 		<key>Headers/RewardVideoDelegate.h</key>
 		<data>
-		sUtmZBSo1PF8ChUjvPWLQFG63yc=
+		p8wX7YpSYb+lafx+pumRQ6tXxck=
 		</data>
 		<key>Headers/SplashAD.h</key>
 		<data>
@@ -503,7 +503,7 @@
 		</data>
 		<key>Headers/SplashDelegate.h</key>
 		<data>
-		YXPAAdUZs5EZUNWn/JAF3yvCzIU=
+		5VMJGId5s5Yq9cIrRFIYALFQDcs=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -1511,11 +1511,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			EJiuSmNd8g9IT3bkh7rAlMfUFGY=
+			yBEWw+YJvCQbE4WbrxlKZ4H0vbM=
 			</data>
 			<key>hash2</key>
 			<data>
-			Y99fAvN4OF/MHPgY2KHiIa+EaeKYibCmkdOkAvrqKik=
+			oEeMyNVc5CfpfEqr8LoFnHLNx+5EYjANrFqP6ugh44E=
 			</data>
 		</dict>
 		<key>Headers/BannerAD.h</key>
@@ -1533,11 +1533,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vqtNnp5MzCd7Ual4dXNcf9FU1Kg=
+			ZxaKJw7TpJkmqrwhpGWkXeMmxK4=
 			</data>
 			<key>hash2</key>
 			<data>
-			y3QjPTl3aiuBQdj9GhJRoLA3OIZ5pC3QYCKXOMS0kLw=
+			wEhOy2LXjb8B4oD6oxeB8sYnLt6hCge+foPQ1XctNSM=
 			</data>
 		</dict>
 		<key>Headers/BaseAD.h</key>
@@ -1599,22 +1599,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			F8bY+PMqxcp9Ce2c+EV8cz/JX3U=
+			yDzH1hJRAizRTtYTZAt7heiM6r8=
 			</data>
 			<key>hash2</key>
 			<data>
-			gzMVRb4uwFnUOaPpZ1/JY09Z8Ms79N0ThA4bA0uqi3w=
+			qw13iqcFzrfqHIXd/o3P6WB9Vk2mNuKi/zQ+MP/3hcA=
 			</data>
 		</dict>
 		<key>Headers/InterstitialDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Vs8X7mxLDSrs85DInBSSV4jE/Q4=
+			ZsieFZ2G3rge8/Bd4XxnRFhTkw0=
 			</data>
 			<key>hash2</key>
 			<data>
-			GLzNxkmPktVOI9fVeKWRNQqAKtjUmKRIorv5Eq8cGew=
+			hz4H+efwvu10SNmSmlEkmHtSOFbF/8qeHSfbjWdgIjY=
 			</data>
 		</dict>
 		<key>Headers/LayoutCategories.h</key>
@@ -1643,33 +1643,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			w9pGu25bmOPvOZLr52JT2Osjuts=
+			bOqG6jnUq/KoCfTjMn8SwSMPtmM=
 			</data>
 			<key>hash2</key>
 			<data>
-			22DporKWkO371YoneKrC6BaHmkTCgykgTRTdQ77TDBo=
+			cbsHBJha8D2cRgmHOqj1TKL1lx5d89a2JAAtlsids/Y=
 			</data>
 		</dict>
 		<key>Headers/RewardVideo.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			lIKKwyCE8D8kVdoZPLDbkMgQxMM=
+			ZDSioebhaI3am7zELNFk8wkv8EM=
 			</data>
 			<key>hash2</key>
 			<data>
-			HnxTl34N9wdOM6iLZtbceKxSfUCfOiQ7NJMFd4oqf5I=
+			pZhimXc03emPnKfNbw8JaOFYLKAxLve82l9B0kw0Ke0=
 			</data>
 		</dict>
 		<key>Headers/RewardVideoDelegate.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			sUtmZBSo1PF8ChUjvPWLQFG63yc=
+			p8wX7YpSYb+lafx+pumRQ6tXxck=
 			</data>
 			<key>hash2</key>
 			<data>
-			n43WgHiX1lBGCuwVgpON2/UprIpkow5uVJNdmzcMxRA=
+			J+gPauEzgTI/KrEDPqscHr3BkJoE1E+Z9mhem8LsIVI=
 			</data>
 		</dict>
 		<key>Headers/SplashAD.h</key>
@@ -1687,11 +1687,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			YXPAAdUZs5EZUNWn/JAF3yvCzIU=
+			5VMJGId5s5Yq9cIrRFIYALFQDcs=
 			</data>
 			<key>hash2</key>
 			<data>
-			6Pak+j4XYacPING9IokYFuS2mZS7/9K3Y7R+mESecaU=
+			eplRrgg0XwYL2L4dfQTvzgEy+ChIQIrrBNRFaEUEROI=
 			</data>
 		</dict>
 		<key>LICENSE</key>

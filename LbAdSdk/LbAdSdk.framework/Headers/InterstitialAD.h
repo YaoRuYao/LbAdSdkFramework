@@ -10,9 +10,9 @@
 #import "InterstitialDelegate.h"
 
 @interface InterstitialAD:BaseAD {
-    UIViewController * _window;
+    UIViewController * _controller;
 }
 
-- (instancetype) initWithPlacementID:(NSString *)id containerView:(UIViewController *)containerView  delegate:(id<InterstitialDelegate>)delegate;
+- (instancetype) initWithPlacementID:(NSString *)id viewController:(UIViewController *)viewController  delegate:(id<InterstitialDelegate>)delegate;
 
 @end

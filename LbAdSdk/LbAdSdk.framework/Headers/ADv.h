@@ -29,13 +29,13 @@
 
 +(NativeAD *) showNativeAD:(NSString *)id containerView:(UIView *)containerView configuration:(NativeConfiguration*)configuration delegate:(id<NativeDelegate>)delegate;
 
-+(RewardVideo *) showRewardVideo:(NSString *)id containerView:(UIViewController *)containerView delegate:(id<RewardVideoDelegate>)delegate;
++(RewardVideo *) showRewardVideo:(NSString *)id viewController:(UIViewController *)viewController delegate:(id<RewardVideoDelegate>)delegate;
 
 +(BannerAD *) showBannerAD:(NSString *)id containerView:(UIView *)containerView configuration:(BannerConfiguration*)configuration delegate:(id<BannerDelegate>)delegate;
 
-+(InterstitialAD *) showInterstitialAD:(NSString *)id containerView:(UIViewController *)containerView delegate:(id<InterstitialDelegate>)delegate;
++(InterstitialAD *) showInterstitialAD:(NSString *)id viewController:(UIViewController *)viewController delegate:(id<InterstitialDelegate>)delegate;
 
-+(FullVideo *)showFullVideo:(NSString *)id containerView:(UIViewController *)containerView delegate:(id<FullVideoDelegate>)delegate;
++(FullVideo *)showFullVideo:(NSString *)id viewController:(UIViewController *)viewController delegate:(id<FullVideoDelegate>)delegate;
 
 @end
 

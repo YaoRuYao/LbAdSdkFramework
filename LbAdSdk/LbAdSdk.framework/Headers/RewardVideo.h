@@ -10,10 +10,10 @@
 #import "BaseAD.h"
 
 @interface RewardVideo:BaseAD {
-    UIViewController *_window;
+    UIViewController *_controller;
 }
 
-- (instancetype) initWithPlacementID:(NSString *)id containerView:(UIViewController *)containerView delegate:(id<RewardVideoDelegate>)delegate;
+- (instancetype) initWithPlacementID:(NSString *)id viewController:(UIViewController *)viewController delegate:(id<RewardVideoDelegate>)delegate;
 
 @end
 
