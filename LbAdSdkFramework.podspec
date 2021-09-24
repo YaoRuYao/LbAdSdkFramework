@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name                      = 'LbAdSdkFramework'
-  s.version                   = '1.0.1'
+  s.version                   = '1.0.2'
   s.summary                   = 'AD Framework'
   s.homepage                  = 'https://github.com/YaoRuYao/LbAdSdkFramework'
   s.license                   = { :type => 'MIT', :file => 'LICENSE' }
